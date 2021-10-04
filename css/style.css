@@ -3,6 +3,10 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
+body{
+    width: 1020px;
+    margin:auto;
+}
 .container{
     margin-left: 5px;
     margin-right: 5px;
@@ -33,10 +37,23 @@ box-sizing:border-box;
     margin-left: 20px;
     margin-right: 5px;
 }
+.container3{
+    margin-top: 20px;
+    margin-bottom:20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+table{
+    border-collapse: collapse;
+}
 .sfblu{
     color:white;
     background-color: #20a9e5;
+    text-align: left;
 }
 .sfmenoblu{
     background-color: #b1e5f2;
+}
+.spaziosa{
+    width: 30%;
 }
