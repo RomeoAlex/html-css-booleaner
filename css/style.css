@@ -27,9 +27,16 @@ box-sizing:border-box;
 .evidenziagiallo{
     background-color:yellow;
 }
-#container{
+.container2{
     margin-top: 20px;
     margin-bottom:20px;
     margin-left: 20px;
     margin-right: 5px;
+}
+.sfblu{
+    color:white;
+    background-color: #20a9e5;
+}
+.sfmenoblu{
+    background-color: #b1e5f2;
 }
